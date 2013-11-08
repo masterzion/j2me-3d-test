@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Jar-URL: StarConfront0.7.jar
+MIDlet-Delete-Confirm: y
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: StarConfront07,,StarConfront07
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: StarConfront0.7 Midlet Suite
